@@ -1,3 +1,6 @@
+![dark logo](https://user-images.githubusercontent.com/100714296/227902077-efacddc3-83b8-4355-94d8-a2359a4087bf.svg)
+
+
 # IPTS
 
 IPTS (**the Interplanetary Travel Syndicate**) is a galactic empire newly launched transportation network that shuttles people from world to world within our galaxy. For now it includes 3 different applications that allow you to travel, monitor, and learn more about new planets. 
